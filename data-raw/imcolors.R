@@ -27,7 +27,9 @@ imcolors <- c(
   Silver1 = "#647D96",
   Silver2 = "#E1E2E1",
   Silver3 = "#C9D6D5",
-  Silver4 = "#778C93")
+  Silver4 = "#778C93",
+  white = "#FFFFFF",
+  black = "#000000")
 
 
 

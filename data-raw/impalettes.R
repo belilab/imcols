@@ -3,11 +3,14 @@
 impalettes <- list(
   main  = imcols::im_cols("Chevalier3", "Dutch1", "Halifax1", "Lake2", "Lake3", "Lumina2", "Mint1", "Pale1", "Pine1", "Pine3", "Rush2", "Silver3", "Silver4"),
 
-  heatmap1  = imcols::im_cols("Lake3", "Chevalier3", "Rush2"),
+  heatmap1 = imcols::im_cols("Lake3", "white", "Chevalier1", "Rush3"),
 
-  heatmap2  = imcols::im_cols("Lake3", "Pale2", "Dutch1"),
+  heatmap2  = imcols::im_cols("Lake3", "Chevalier3", "Rush2"),
 
-  heatmap3 = imcols::im_cols("Lake3", "Silver3", "Rush3"),
+  heatmap3  = imcols::im_cols("Lake3", "Pale2", "Dutch1"),
+
+  heatmap4 = imcols::im_cols("Lake3", "white", "Rush3"),
+
 
   heatmap_hot = imcols::im_cols("Chevalier3", "Rush2"),
 
