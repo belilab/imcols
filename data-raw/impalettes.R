@@ -7,6 +7,8 @@ impalettes <- list(
 
   heatmap2  = imcols::im_cols("Lake3", "Pale2", "Dutch1"),
 
+  heatmap3 = imcols::im_cols("Lake3", "Silver3", "Rush3"),
+
   heatmap_hot = imcols::im_cols("Chevalier3", "Rush2"),
 
   heatmap_cool = imcols::im_cols("Lake3", "Pine3")
