@@ -20,3 +20,5 @@ impalettes <- list(
 
 
 usethis::use_data(impalettes, overwrite = TRUE)
+
+
