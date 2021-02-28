@@ -1,0 +1,18 @@
+Package: imcols
+Title: Ivans colors
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Justus Florian",
+           family = "Gräf",
+           role = c("aut", "cre"),
+           email = "j.graef@imb.de",
+           comment = c(ORCID = "YOUR-ORCID-ID"))
+Description: Providing custom colors for IM.
+License: `use_mit_license()`, `use_gpl3_license()` or friends to
+    pick a license
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.1
+Depends: 
+    R (>= 2.10)
